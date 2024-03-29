@@ -1,0 +1,24 @@
+
+.container-dark, .container-light {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    top: 0;
+    right: 0;
+    padding: 1rem;
+    background-color: #9c9a9a; 
+    color: white; 
+}
+
+.container-light {
+    background-color: #f0f0f0; 
+    color: #333; 
+}
+
+.containerTitle{
+    text-align: center;
+}
+.centered {
+    display: inline-block;
+    
+}

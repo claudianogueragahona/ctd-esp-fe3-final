@@ -1,0 +1,38 @@
+.container-dark, .container-light {
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+    right: 0;
+    background-color: #9c9a9a; 
+    color: white; 
+    
+}
+.container-light {
+    background-color: #f0f0f0; 
+    color: #333; 
+    
+}
+h2{
+    margin-right: 400px;
+}
+
+.navLinks {
+    list-style-type: none;    
+    padding: 0;
+    display: flex;
+    flex: 1; 
+    justify-content: space-between;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;   
+}
+
+button{
+    border-style: double;
+    border-radius:15%;
+}
+
+
+
+
+
+

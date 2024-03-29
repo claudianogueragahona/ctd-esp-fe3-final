@@ -1,0 +1,34 @@
+footer {
+    
+    padding: 20px 20px;
+    
+    justify-content: space-between;
+    
+}
+
+footer .logoDH{
+    margin-right: 300px;
+    margin-left: 50px;
+    
+}
+
+.listaLogos {
+    list-style-type: none; 
+    padding: 0;
+    display: flex;
+    margin-left: 150px;
+    align-items: center;
+    
+    
+}
+
+.listaLogos li {
+    margin-right: 20px; 
+    
+}
+
+.listaLogos img {
+    width: 25px; 
+    height: auto; 
+    
+}
